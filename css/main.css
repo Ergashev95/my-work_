@@ -210,6 +210,10 @@ body {
 
 /* SITE-HERO */
 
+.site-header-hero {
+  width: 100%;
+  overflow: hidden;
+}
 .site-hero__subtitle {
   color: var(--text-color);
   margin-bottom: 10px !important;
